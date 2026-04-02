@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 💡 Languages:   Java | C | C++ 
 🧰 Web Technologies:  HTML | CSS | JavaScript |  React JS
 🛢️ Databases:  MariaDB | MySQL | MSSQL  |  Oracle
-⚙️ Operating System: Windows  |  linux
+⚙️ Operating System: Windows  |  Linux
 
 
 -->
